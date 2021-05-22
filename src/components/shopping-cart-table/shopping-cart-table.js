@@ -14,7 +14,9 @@ const ShoppingCartTable = () => {
           <th>Item</th>
           <th>Count</th>
           <th>Price</th>
-          <th className="float-right">Action</th>
+          <th>
+            <span className="float-right">Action</span>
+          </th>
         </tr>
         </thead>
 
